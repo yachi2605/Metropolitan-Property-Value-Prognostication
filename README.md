@@ -86,7 +86,3 @@ Contributions are welcome! If you find any issues or want to enhance the project
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to tailor this README template to match the specifics of your Metropolitan Property Value Prognostication project. Update placeholders like `your-username`, `metropolitan-property-value`, and provide the correct links and versions for the dependencies.
